@@ -10,9 +10,9 @@
 
 ## Exercícios Resolvidos
 
-   3.5. [Beecrowd 2413 - Busca na Internet](https://www.beecrowd.com.br/judge/en/problems/view/2413) [[Solução](beecrowd_2413.c)]
+   3.5. [Beecrowd 2413 - Busca na Internet](https://judge.beecrowd.com/pt/problems/view/2413) [[Solução](beecrowd_2413.c)]
 
-   3.6. [Beecrowd 2786 - Piso da Escola](https://www.beecrowd.com.br/judge/en/problems/view/2786) [[Solução](beecrowd_2786.c)]
+   3.6. [Beecrowd 2786 - Piso da Escola](https://judge.beecrowd.com/pt/problems/view/2786) [[Solução](beecrowd_2786.c)]
 
 
 <!--
