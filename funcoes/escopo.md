@@ -36,7 +36,7 @@ int main(){
 }
 ```
 
-Como a variável ```s``` foi declarada no interior da função ```soma```, seu escopo é válido apenas dentro da função ```soma```. Isso significa que você pode apenas trabalhar com ela (atribuindo valores, utilizando-a em operações aritméticas e em estruturas condicionais) apenas dentro da função ```main```.
+Como a variável ```s``` foi declarada no interior da função ```soma```, seu escopo é válido apenas dentro da função ```soma```. Isso significa que você pode apenas trabalhar com ela (atribuindo valores, utilizando-a em operações aritméticas e em estruturas condicionais) apenas dentro da função ```soma```.
 
 O mesmo raciocínio vale para as variáveis ```x``` e ```y```, que foram declaradas na função ```main```. Elas são visíveis apenas dentro da função ```main```, não sendo possível acessá-las diretamente em qualquer outra parte do código-fonte, como na função ```soma```.
 
