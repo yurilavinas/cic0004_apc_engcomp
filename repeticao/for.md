@@ -100,7 +100,7 @@ scanf("%d",&maior);
 
 for(i = 0; i < n; i++){
     scanf("%d",&a);
-    if(a < maior){
+    if(a > maior){
         maior = a;
     }
 }
