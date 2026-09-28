@@ -25,7 +25,7 @@ Podemos reescrever assim:
 ```
 int i;
 
-i = 1;
+i += 1;
 i++;
 printf("%d\n",i);
 ```
